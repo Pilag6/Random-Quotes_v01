@@ -5,11 +5,7 @@
   ![GitHub forks](https://img.shields.io/github/forks/Pilag6/The-Blocks?style=social)
   [![Twitter Follow](https://img.shields.io/twitter/follow/PilaGonzalezOk?style=social)](https://twitter.com/intent/follow?screen_name=PilaGonzalezOk)
 
-  <br />
-  <br />
- 
-
-# Random Quotes 
+ # Random Quotes 
  with Text to Speech, Copy to the Clipboard & Share on Twitter
  <a href="https://pilag6.github.io/Random-Quotes_v01/"><strong>➥ Live Web</strong></a>
 
