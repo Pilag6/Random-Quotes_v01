@@ -8,12 +8,10 @@
   <br />
   <br />
  
-<a href="https://pilag6.github.io/Random-Quotes_v01/"><strong>➥ Live Web</strong></a>
-   
-<br />
 
 # Random Quotes 
  with Text to Speech, Copy to the Clipboard & Share on Twitter
+ <a href="https://pilag6.github.io/Random-Quotes_v01/"><strong>➥ Live Web</strong></a>
 
 
 
