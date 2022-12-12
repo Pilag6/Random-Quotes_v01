@@ -7,19 +7,16 @@
 
   <br />
   <br />
-
+ 
+<a href="https://pilag6.github.io/Random-Quotes_v01/"><strong>➥ Live Web</strong></a>
    
-  https://pilag6.github.io/Random-Quotes_v01/
-
-
-</div>
-
 <br />
 
-# Random Quotes with Text to Speech, Copy to the Clipboard & Share on Twitter
+# Random Quotes 
+ with Text to Speech, Copy to the Clipboard & Share on Twitter
 
 
-<div align="center">
+
 
 ![Quoteoftheday](https://user-images.githubusercontent.com/79191808/207011296-40679833-8c93-456e-9f95-a7c931070488.png)
 
